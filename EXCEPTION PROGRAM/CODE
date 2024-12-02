@@ -53,7 +53,7 @@ class Program
 	public static void main(String args[])
 	{
 		son so=new son();
-		System.out.println("Name: M S Shailesh");
-		System.out.println("USN: 1BM23CS172");	
+		System.out.println("Name: LIKHITH D");
+		System.out.println("USN: 1BM23CS170");	
 	}
 }
