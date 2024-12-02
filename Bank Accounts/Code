@@ -149,5 +149,8 @@ break;
 if(count==1)
 break;
 }
+System.out.println("Name: Likhith D"); 
+System.out.println("USN: 1BM23CS170"); 
+
 }
 }
